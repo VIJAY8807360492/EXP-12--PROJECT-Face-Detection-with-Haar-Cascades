@@ -1,4 +1,3 @@
-<img width="738" height="580" alt="download" src="https://github.com/user-attachments/assets/ed72efd2-68e5-4efd-84e2-b49bd7394c6d" /># EXP-12--PROJECT-Face-Detection-with-Haar-Cascades
 ## Aim:
 
 To write a Python program using OpenCV to perform the following image manipulations:  
